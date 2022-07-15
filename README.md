@@ -3,16 +3,16 @@
 ### 1. OBJETIVOS
 
 **Principales**
-- Seleccionar los conceptos de onda sinusuidal para la representación de corriente alterna en el transcurso del tiempo.
-- Desarrollar el uso de instrumentos de medicion pra la correinte alterna.
-- Recomendar el uso del concepto de capasitores en serie y en paralelo
+- Seleccionar los conceptos de onda sinusoidal para la representación de corriente alterna en el transcurso del tiempo.
+- Desarrollar el uso de instrumentos de medición para la corriente alterna.
+- Recomendar el uso del concepto de capacitores en serie y en paralelo
 
 
 **Específicos**
 
 - Identificar cuáles son las características de un circuito con corriente alterna.
 - Determinar los capacitores de un circuito en serie y en paralelo.
-- Determinar las relaciones que existe entre las ondas sinuisuidales y el campo de los numeros complejos.
+- Determinar las relaciones que existe entre las ondas sinusoidales y el campo de los números complejos.
 - Distinguir las siguientes problemáticas que puedan ocurrir en la construcción de un circuito en serie y en paralelo.
 - 
 ### 2. MARCO TEORICO
@@ -74,12 +74,12 @@ https://youtu.be/Y-3tUByS7xI
 
 ### 5. CONCLUSIONES
 
-- Las características de la corriente alterna es que a medidd que vaanza el tiempo siempre estpa caviando e una frecuencia y velocidad, por ende esto se puede utilizar en funciones de onda.
+- Las características de la corriente alterna es que a medid que avanza el tiempo siempre está cavilando y una frecuencia y velocidad, por ende, esto se puede utilizar en funciones de onda.
 - La Característica principal de un circuito en paralelo es de que tienen diferentes corrientes y el mismo voltaje en el nodo.
 - La potencia en un circuito en serie es la suma de todas las potencias que existen en los resistores que acompañan a dicho circuito en serie.
-- Dependiendo de la cantidad de corriente que se ingresas al capacitor este ira bajando de manera controlada su corrinente y voltaje.
+- Dependiendo de la cantidad de corriente que se ingresas al capacitor esta ira bajando de manera controlada su corriente y voltaje.
 ### 6. BIBLIOGRAFÍA
 
-- Dore, R. C., & Svoboda, J. A. (2010). Introduction to Electric Circuits (8.a ed.). John Wiley & Sons Inc.
+- Dore, R. C., & Sobada, J. A. (2010). Introducción ti Electric Circuitos (8.a ed.). John Wiley & Sons Inc.
 - Floyd, T. L. (2022). Principios De Circuitos Eléctricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
 - REAMEC – Rede Amazônica de Educação em Ciências e Matemática. (2017). APRENDIZAJE ACTIVO Y MAPAS CONCEPTUALES: APLICACIÓN A LOS CIRCUITO DE CORRIENTE ALTERNA (N.o 1). https://doi.org/10.26571/2318-6674.a2017.v5.n1.p131-142.i5348
