@@ -3,19 +3,18 @@
 ### 1. OBJETIVOS
 
 **Principales**
-- Seleccionar los conceptos más importantes de lazo para la resolución de ejercicios dentro de un circuito eléctrico.
-- Revisar los conceptos que se integran con los circuitos en serie y en paralelo como es ley de ohm, y leyes de Kirchhoff.
-- Desarrollar el uso de los teoremas como formas de resolución de los problemas de circuitos.
-- Seleccionar conceptos de significados de: Magnetismo, campo magnético, electromagnetismo e Inducción electromagnética.
+- Seleccionar los conceptos de onda sinusuidal para la representación de corriente alterna en el transcurso del tiempo.
+- Desarrollar el uso de instrumentos de medicion pra la correinte alterna.
+- Recomendar el uso del concepto de capasitores en serie y en paralelo
+
 
 **Específicos**
 
-- Identificar cuáles son las características de circuito resistivo en serie y en paralelo.
-- Determinar las potencias de un circuito en serie y en paralelo.
-- Determinar las relaciones que existe entre electricidad y magnetismo.
+- Identificar cuáles son las características de un circuito con corriente alterna.
+- Determinar los capacitores de un circuito en serie y en paralelo.
+- Determinar las relaciones que existe entre las ondas sinuisuidales y el campo de los numeros complejos.
 - Distinguir las siguientes problemáticas que puedan ocurrir en la construcción de un circuito en serie y en paralelo.
-- Utilizar los teoremas de superposición, Thévenin, Norton y máxima transferencia de energía para la resolución de problemas de circuitos.
-
+- 
 ### 2. MARCO TEORICO
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-6/blob/main/Fotos/1.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-6/blob/main/Fotos/2.png)
@@ -75,11 +74,12 @@ https://youtu.be/Y-3tUByS7xI
 
 ### 5. CONCLUSIONES
 
-- Las características principales de un circuito mixto es de que tienen la misma corriente, pero diferentes caídas de tensión.
+- Las características de la corriente alterna es que a medidd que vaanza el tiempo siempre estpa caviando e una frecuencia y velocidad, por ende esto se puede utilizar en funciones de onda.
 - La Característica principal de un circuito en paralelo es de que tienen diferentes corrientes y el mismo voltaje en el nodo.
 - La potencia en un circuito en serie es la suma de todas las potencias que existen en los resistores que acompañan a dicho circuito en serie.
-- Dependiendo de la cantidad de corriente que se le ponga dentro de un campo electromagnéticos este empezara a aumentar su campo magnético.
+- Dependiendo de la cantidad de corriente que se ingresas al capacitor este ira bajando de manera controlada su corrinente y voltaje.
 ### 6. BIBLIOGRAFÍA
 
 - Dore, R. C., & Svoboda, J. A. (2010). Introduction to Electric Circuits (8.a ed.). John Wiley & Sons Inc.
 - Floyd, T. L. (2022). Principios De Circuitos Eléctricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+- REAMEC – Rede Amazônica de Educação em Ciências e Matemática. (2017). APRENDIZAJE ACTIVO Y MAPAS CONCEPTUALES: APLICACIÓN A LOS CIRCUITO DE CORRIENTE ALTERNA (N.o 1). https://doi.org/10.26571/2318-6674.a2017.v5.n1.p131-142.i5348
