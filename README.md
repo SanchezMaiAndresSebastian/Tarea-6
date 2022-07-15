@@ -17,10 +17,10 @@
 - Utilizar los teoremas de superposición, Thévenin, Norton y máxima transferencia de energía para la resolución de problemas de circuitos.
 
 ### 2. MARCO TEORICO
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/1.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/2.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/3.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/4.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-6/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-6/blob/main/Fotos/2.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-6/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-6/blob/main/Fotos/4.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
